@@ -7,7 +7,7 @@ import navbar from '@/components/navbar.vue'
     
     <navbar></navbar>
 
-    <!-- <router-link to="/">Home</router-link>
+    <!-- <router-link to="/">Home</router-link>no
     <router-link to="/about">About</router-link>
     <router-link to="/todo">todo</router-link> -->
 
