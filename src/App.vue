@@ -11,7 +11,7 @@ import navbar from '@/components/navbar.vue'
     <router-link to="/about">About</router-link>
     <router-link to="/todo">todo</router-link> -->
 
-    <router-view />
+    <router-view/>
     
 </template>
 
